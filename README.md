@@ -1,5 +1,5 @@
 # multigit
-Tools to deal with multiple git repositories #microservices
+Tools to deal with multiple git repositories
 
 ## Example output
 
@@ -16,7 +16,7 @@ repo1 ⑂ master > multigit status -s
 ## Installation
 
 1. Clone the repo
-2. Add to your this `~/.bash_profile`:
+2. Add this to your `~/.bash_profile`:
 ```
 source ~/path/to/the/cloned/repo/multigit.sh
 ```
